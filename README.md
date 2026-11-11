@@ -26,21 +26,6 @@ The project demonstrates how data analysis techniques can transform agricultural
 | `README.md` | Project overview, instructions, tools, methodology, limitations, and conclusion. |
 | `images/grab/` | Contains screenshots of project execution and analysis in RStudio. |
 
-## 📊 Datasets
-
-This project uses two agricultural datasets:
-
-### 1. Agricultural Production Dataset
-
-**File:** `agri_production.csv`
-
-Used to explore agricultural production patterns, crop-wise performance, regional differences, and yield-related information.
-
-### 2. Agricultural Market Prices Dataset
-
-**File:** `agri_prices.csv`
-
-Used to explore agricultural market prices, price movements, seasonal variations, and market-related trends.
 
 ## 🛠️ Tools and Technologies
 
